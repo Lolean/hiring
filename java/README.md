@@ -9,7 +9,7 @@ Write a method that when called with an integer as argument, returns:
 * "fizz" if the number is divisible by three
 * "buzz" if the number is divisible by five
 * "fizzbuzz" if the number is divisible by three AND by five
-* the number, as a string
+* the number, as a string if none of the above is applicable
 
 ### T9
 
